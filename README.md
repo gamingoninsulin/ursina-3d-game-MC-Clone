@@ -1,2 +1,2 @@
 # ursina-3d-game-MC-Clone
-beil game in python using ursina
+A game in python using ursina
